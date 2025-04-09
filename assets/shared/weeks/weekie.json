@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Psycho Syndrome",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"storyName": "My balls ITCH",
+	"weekName": "weekie",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
